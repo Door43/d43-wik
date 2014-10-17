@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[wik:home|Door43 (wik)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-wik|d43-wik repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-wik/archive/master.zip|d43-wik.zip]]
+
+**Recent Changes**
+{{changes>ns = wik}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/wik|Ethnologue data]]
+
